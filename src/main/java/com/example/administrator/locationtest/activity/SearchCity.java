@@ -121,12 +121,6 @@ public class SearchCity extends Activity implements SearchView.OnQueryTextListen
         return true;
     }
 
-    @Override
-    public void onBackPressed() {
-        Intent intent = new Intent(SearchCity.this, MainActivity.class);
-        startActivity(intent);
-        finish();
-    }
 }
 
 

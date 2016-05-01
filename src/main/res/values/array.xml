@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="more">
+        <item>清除缓存</item>
+        <item>更换背景颜色</item>
+        <item>关于软件</item>
+    </string-array>
+</resources>

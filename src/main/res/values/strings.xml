@@ -1,6 +1,7 @@
 <resources>
     <string name="app_name">天气预报</string>
-    <string name="action_settings">Settings</string>
+    <string name="change_background">更换背景颜色</string>
+    <string name="setting">设置</string>
     <string name="title_activity_search_city_name">SearchCityName</string>
     <string name="title_activity_city_list">City</string>
     <string name="title_activity_search_city">SearchCity</string>

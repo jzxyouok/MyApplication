@@ -27,7 +27,7 @@
         <activity
             android:name=".activity.SearchCity"
             android:label="@string/title_activity_search_city"
-            android:theme="@style/AppTheme.NoActionBar"></activity>
+            android:theme="@style/AppTheme_search"></activity>
     </application>
 
 </manifest>

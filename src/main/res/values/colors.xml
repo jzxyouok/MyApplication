@@ -7,4 +7,5 @@
     <color name="background">#2196F3</color>
     <color name="text">#FFFFFF</color>
     <color name="line">#BBDEFB</color>
+    <color name="black">#2196F3</color>
 </resources>

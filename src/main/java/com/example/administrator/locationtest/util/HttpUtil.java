@@ -1,11 +1,7 @@
 package com.example.administrator.locationtest.util;
 
 
-import android.content.SharedPreferences;
-import android.preference.Preference;
-import android.preference.PreferenceManager;
 import android.util.Log;
-
 import java.io.BufferedReader;
 import java.io.InputStream;
 import java.io.InputStreamReader;

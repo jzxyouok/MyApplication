@@ -12,7 +12,6 @@ import android.widget.TextView;
 
 import java.util.ArrayList;
 import java.util.List;
-
 /**
  * Created by Administrator on 2016/3/12.
  */
@@ -89,7 +88,6 @@ public class SearchAdapter extends BaseAdapter implements Filterable {
 
             results.values = newValues;
             results.count = newValues.size();
-
             return results;
         }
 
